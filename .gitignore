@@ -1,0 +1,4 @@
+#no .c file
+*.c
+#no tmp/ file
+tmp/*
